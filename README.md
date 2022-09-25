@@ -1,2 +1,2 @@
 # Gold_Price_prediction
-# Using Random Forest Regression achived 98% accuracy.
+# Using Random Forest Regression achieved 98% accuracy.
